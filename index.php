@@ -2,7 +2,7 @@
 define ('MAX_MINION', 50);
 define ('MIN_MINION', 10);
 $pocetpand = rand(MIN_MINION, MAX_MINION);
-$panda = ""
+$panda =  👺;
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -15,7 +15,7 @@ $panda = ""
  <?php
  while ($pocetpand > 0) { 
      $pocetpand = $pocetpand - 1;
-     echo 👺;
+     echo $panda;
  }   
  ?>
 </body>
