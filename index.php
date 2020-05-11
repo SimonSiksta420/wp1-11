@@ -2,7 +2,7 @@
 define ('MAX_MINION', 50);
 define ('MIN_MINION', 10);
 $pocetpand = rand(MIN_MINION, MAX_MINION);
-$panda =  👺;
+$panda =  &#x1F921;
 ?>
 <!DOCTYPE html>
 <html lang="en">
