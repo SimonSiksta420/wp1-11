@@ -14,8 +14,8 @@ $pocetpand = rand(MIN_MINION, MAX_MINION);
 <body>
  <?php
  while ($pocetpand > 0) { 
-     $pocetpand = $pocetpand - 1
-     echo $panda
+     $pocetpand = $pocetpand - 1;
+     echo $panda;
  }   
  ?>
 </body>
